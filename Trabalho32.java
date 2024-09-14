@@ -97,7 +97,7 @@ class Trabalho32{
 	
 	do{
 		f.o.println(f.inf);
-		System.out.println("***************** Loja de acessorios electronicos **********************\n1- Adicionar produtos\n2- Visualizar produtos\n3- Buscar produtos");
+		System.out.println("***************** Loja de acessorios electronicos **********************\n1- Adicionar produtos\n2- Visualizar produtos\n3- Buscar produtos\n0- Sair");
 		opc = jh.nextInt();
 		switch(opc){
 			case 1:
